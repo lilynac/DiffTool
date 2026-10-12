@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" fill="none">
+  <title>SheetDiff</title>
+  <desc>左右に並ぶシートと、削除・変更・追加の差分を表すアイコン。</desc>
+  <rect x="8" y="8" width="240" height="240" rx="54" fill="#183B63"/>
+  <rect x="36" y="46" width="82" height="164" rx="14" fill="#102E50"/>
+  <rect x="138" y="46" width="82" height="164" rx="14" fill="#102E50"/>
+  <rect x="36" y="40" width="82" height="164" rx="14" fill="#F4F7FC"/>
+  <rect x="138" y="40" width="82" height="164" rx="14" fill="#F4F7FC"/>
+  <path d="M52 62H82M154 62H184" stroke="#6C839D" stroke-width="8" stroke-linecap="round"/>
+  <path d="M52 88H102M154 88H204M52 164H102M154 164H204M52 186H82M154 186H184" stroke="#CAD6E4" stroke-width="7" stroke-linecap="round"/>
+  <rect x="46" y="102" width="62" height="20" rx="5" fill="#E99088"/>
+  <path d="M56 112H72" stroke="#703B3A" stroke-width="4" stroke-linecap="round"/>
+  <rect x="148" y="102" width="62" height="20" rx="5" fill="#DCE4EF"/>
+  <rect x="46" y="132" width="62" height="20" rx="5" fill="#DCE4EF"/>
+  <rect x="148" y="132" width="62" height="20" rx="5" fill="#78C8A3"/>
+  <path d="M158 142H174M166 134V150" stroke="#225B45" stroke-width="4" stroke-linecap="round"/>
+  <path d="M112 124H144" stroke="#F3C65C" stroke-width="7" stroke-linecap="round"/>
+  <path d="M119 117L112 124L119 131M137 117L144 124L137 131" stroke="#F3C65C" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
